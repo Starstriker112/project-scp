@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "06d5985c-8556-4b98-b19a-0d8d096492c3",
+            "Value": {
+                "id": "8ee7ba9f-f0c7-4524-85ba-f8065fa54e4f",
+                "resourcePath": "objects\\oWall\\oWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ac3eb02-5bc5-44bd-a893-bc10d9e20f5a",
             "Value": {
                 "id": "a19f7bea-1a2d-4c1e-bed4-187283a4d24d",

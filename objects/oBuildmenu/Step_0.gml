@@ -16,3 +16,12 @@ tiles = 5;
 
 build_get_size = array_create(3, tiles);
 
+if (build_get_size < tiles)
+{
+	tiles += 2;
+}
+else 
+{
+	build_get_size = tiles;
+}
+

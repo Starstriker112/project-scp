@@ -5,16 +5,6 @@
     "name": "oWall",
     "eventList": [
         {
-            "id": "490ef244-b56b-4477-bbd8-0f3f44f31ead",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "06d5985c-8556-4b98-b19a-0d8d096492c3"
-        },
-        {
             "id": "4e5408f6-5219-428f-ad33-c492bc690259",
             "modelName": "GMEvent",
             "mvc": "1.0",

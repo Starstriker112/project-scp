@@ -1,3 +1,4 @@
+buildmenuopen = false;
 var buildplace = false;
 var buildplaceoverlay = draw_set_color(c_red);
 

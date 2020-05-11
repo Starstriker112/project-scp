@@ -1,18 +1,28 @@
 {
-    "id": "60adb522-7699-4e4b-be90-26265641307d",
+    "id": "b34c0609-6b9e-4ca7-809a-54d657939f35",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oGridController",
+    "name": "oFollowMouse",
     "eventList": [
         {
-            "id": "a836d79a-64e4-4c05-8554-0c1b2452c5c7",
+            "id": "ba63d2ea-bf22-4034-b56f-71e79b4f5a23",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "b34c0609-6b9e-4ca7-809a-54d657939f35"
+        },
+        {
+            "id": "3c3c82a6-1157-4b5c-a784-45f2b483522a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "60adb522-7699-4e4b-be90-26265641307d"
+            "m_owner": "b34c0609-6b9e-4ca7-809a-54d657939f35"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "823f0d31-5157-4df3-8622-f8342728727a",
+    "spriteId": "c6338589-ee4d-4cb7-9b56-a8136032a42d",
     "visible": true
 }

@@ -1,1 +1,1 @@
-scGenFoundation()
+scGenFoundation();

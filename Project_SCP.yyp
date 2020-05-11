@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "8e4f2023-f831-42d3-8acd-445607f24819",
+            "Value": {
+                "id": "a132509a-fa86-4193-be09-a73c52343b4f",
+                "resourcePath": "objects\\oCamcontrol\\oCamcontrol.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8feb238e-5c12-457c-bcd1-eb05ba541116",
             "Value": {
                 "id": "43497031-08ac-437d-a0c0-84daff395ba0",
@@ -263,6 +271,14 @@
             }
         },
         {
+            "Key": "b34c0609-6b9e-4ca7-809a-54d657939f35",
+            "Value": {
+                "id": "5695ab42-e2f2-4aef-97da-5e94183ea2ac",
+                "resourcePath": "objects\\oFollowMouse\\oFollowMouse.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b9b993a2-6bcd-48c2-8039-766f3494f856",
             "Value": {
                 "id": "1aab7698-c1db-4852-b4e2-15d5995a1628",
@@ -322,7 +338,7 @@
             "Key": "f1032231-f594-44bf-bb29-96b27e4c8672",
             "Value": {
                 "id": "41230c5a-ccb0-4093-8fac-992786c49a74",
-                "resourcePath": "objects\\obj_grid\\obj_grid.yy",
+                "resourcePath": "objects\\oGrid\\oGrid.yy",
                 "resourceType": "GMObject"
             }
         },

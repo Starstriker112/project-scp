@@ -2,7 +2,7 @@
     "id": "f1032231-f594-44bf-bb29-96b27e4c8672",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_grid",
+    "name": "oGrid",
     "eventList": [
         {
             "id": "d24284a6-35fd-4c0c-be86-85199d24016b",
@@ -52,6 +52,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 68,
             "eventtype": 13,
+            "m_owner": "f1032231-f594-44bf-bb29-96b27e4c8672"
+        },
+        {
+            "id": "07e10318-243b-4f4c-8cc4-92c2b48ccd10",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 9,
             "m_owner": "f1032231-f594-44bf-bb29-96b27e4c8672"
         }
     ],

@@ -1,5 +1,5 @@
 buildmenuopen = false;
-var buildplace = false;
+buildplace = false;
 var buildplaceoverlay = draw_set_color(c_red);
 
 if (place_empty(mouse_x, mouse_y, oGridSquare))

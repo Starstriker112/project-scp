@@ -14,7 +14,7 @@ with(obj_camcontrol)
 //step event show_debug_message(string(camera_x) + " " + string(camera_y))
 */
 
-zoom = 3;
+zoom = 2;
 
 view_width = 640*zoom;
 view_height = 360*zoom;

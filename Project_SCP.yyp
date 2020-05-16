@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "c70dfb40-3b6a-4b2e-bf86-45b403c7aa1e",
+            "Value": {
+                "id": "16c18662-c6ad-4c67-a72a-79dc43f2aba5",
+                "resourcePath": "objects\\oBuildController\\oBuildController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cab2f2e5-e241-4c43-b5a9-a9ea259df27d",
             "Value": {
                 "id": "5bf4c4b8-96f3-48a9-b927-40bc83608380",
@@ -308,6 +316,14 @@
                 "id": "a099de23-b887-44f4-bbec-70874768288b",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d0969b1c-2085-4644-a3c3-526d32135396",
+            "Value": {
+                "id": "2f09b928-a94d-4a5c-8516-79373456b0b2",
+                "resourcePath": "sprites\\sSCP035\\sSCP035.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

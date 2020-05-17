@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "e406c5c1-a0f2-4063-8c80-aa173dab3724",
+            "Value": {
+                "id": "2e135c49-de3b-4159-bd30-91751813c52a",
+                "resourcePath": "sprites\\sSCP002\\sSCP002.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "dc711957-b3e3-4f68-9c01-b63f512f85fb",

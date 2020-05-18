@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "a8e26264-b685-465b-b7d0-6a4bf9ade98b",
+            "Value": {
+                "id": "3f616d50-7798-430f-bc05-8aa4b41baa28",
+                "resourcePath": "sprites\\sSCP2662\\sSCP2662.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "48f907f2-882a-47af-a45e-e571463568e5",
